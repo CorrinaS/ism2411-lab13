@@ -1,3 +1,11 @@
+# Lab 13 Reflection questions
+
+# 1.) A boolean filter selects rows that meet a certain condition.
+
+# 2.) df["revenue"] returns a series. df[["revenue"]] returns a DataFrame.
+
+# 3.) Pandas makes it easier to analyze large amounts of data and repeat tasks.
+
 import pandas as pd
 
 df = pd.read_csv('data/retail_sales.csv')
